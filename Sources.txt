@@ -1,0 +1,6 @@
+##Credits
+https://www.w3schools.com/jsref/met_element_addeventlistener.asp
+https://www.w3schools.com/jsref/tryit.asp?filename=tryjsref_element_addeventlistener2
+https://www.freecodecamp.org/news/javascript-date-time-dayjs/#:~:text=const%20currentDate%20%3D%20dayjs()%3B,That's%20it!
+https://developer.mozilla.org/en-US/docs/Web/API/Window/localStorage
+ Xpert Learning Assistant. (2023). Full Stack Application Development Course Discussions. Retrieved from edX. https://bootcampspot.instructure.com/courses/4087/external_tools/313
